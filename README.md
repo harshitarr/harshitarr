@@ -28,8 +28,6 @@ Hi, I'm Harshita 👋 — a Pre-Final Year Computer and Communication Engineerin
 
 ## 💻 Tech Stack:
 
-<div align="center">
-
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,18 +52,26 @@ Hi, I'm Harshita 👋 — a Pre-Final Year Computer and Communication Engineerin
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-</div>
-
 <br/>
 
 ## 📊 GitHub Stats:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshitarr&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitarr&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="34%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshitarr&show_icons=true&theme=radical&hide_border=false&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitarr&layout=compact&theme=radical&hide_border=false" width="34%"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=harshitarr&theme=radical&hide_border=false" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=harshitarr&theme=radical&hide_border=false" width="70%"/>
+
+</div>
+
+<br/>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshitarr&theme=radical&no-frame=true&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -75,7 +81,7 @@ Hi, I'm Harshita 👋 — a Pre-Final Year Computer and Communication Engineerin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitarr&theme=radical&hide_border=false" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitarr&theme=redical&hide_border=false" width="90%"/>
 
 </div>
 
