@@ -10,7 +10,7 @@
 
 ## 💫 About Me:
 
-Hi, I'm Harshita 👋 — a Pre-Final Year Computer and Communication Engineering student passionate about **Full Stack Development** and **Artificial Intelligence**. I love building scalable web applications and AI-powered solutions that solve real-world problems. I have hands-on experience with **React.js, Next.js, Node.js, MongoDB, and Tailwind CSS**, along with strong Python skills for AI/ML work involving **RAG pipelines, LLMs, Semantic Search, Sentence Transformers, FAISS, Ollama, and Qwen**. I'm currently expanding my expertise in **Agentic AI, System Design, Backend Development, and Cloud Technologies**, and I'm always excited to collaborate on impactful, innovative projects.
+Hi, I'm Harshita 👋 — a Pre-Final Year Computer and Communication Engineering student passionate about **Full Stack Development** and **Artificial Intelligence**. I love building scalable web applications and AI-powered solutions that solve real-world problems. I have hands-on experience with **React.js, Next.js, Node.js, MongoDB, and Tailwind CSS**, along with Python skills for AI/ML work involving **RAG pipelines, LLMs, Semantic Search, Sentence Transformers, FAISS, Ollama, and Qwen**. I'm currently expanding my expertise in **Agentic AI**, and I'm always excited to collaborate on impactful, innovative projects.
 
 <br/>
 
